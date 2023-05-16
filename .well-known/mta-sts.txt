@@ -1,0 +1,5 @@
+      version: STSv1
+      mode: testing
+      mx: egginton-derbyshire-sch-uk.mail.protection.outlook.com
+      mx: mail.egginton.derbyshire.sch.uk
+      max_age: 604800
